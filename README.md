@@ -10,7 +10,8 @@ Architecture: ARM64
 
 - Day00: System Bring-up
 - Day01: Linux Filesystem & Kernel Interface
-- Day02: Device Nodes and udev (Next)
+- Day02: [Device Nodes, Major/Minor & udev](Day02_Device_Nodes_udev/README.md) — Completed (Lab01 / Lab02 PASS)
+- Day03: [Linux Process, PID, PPID & systemd](Day03_Process_PID_systemd/README.md) — Completed (Lab01 / Lab02 PASS)
 
 ## Goal
 
