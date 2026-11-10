@@ -12,6 +12,9 @@ Architecture: ARM64
 - Day01: Linux Filesystem & Kernel Interface
 - Day02: [Device Nodes, Major/Minor & udev](Day02_Device_Nodes_udev/README.md) — Completed (Lab01 / Lab02 PASS)
 - Day03: [Linux Process, PID, PPID & systemd](Day03_Process_PID_systemd/README.md) — Completed (Lab01 / Lab02 PASS)
+- Day04: [Platform Device & Driver Binding](Day04_Platform_Driver_Binding/README.md) — Completed (existing driver binding and invalid device path checks PASS)
+- Day05: [Linux Memory & Virtual Address Space](Day05_Linux_Memory/README.md) — Completed (Lab01 / Lab02 PASS, lab code committed)
+- Day06: [Device Tree `reg` Property Decoding](Day06_DT_Reg_Decode/README.md) — Completed (RK3588 `reg` decoding and invalid node path checks PASS)
 
 ## Goal
 
